@@ -25,7 +25,7 @@ contactUs.addEventListener("click",(event)=>{
     
     }
 else{
-    // r.style.setProperty('--blue', 'circle(1900px at 100% 0%)');
+    // r.style.setProperty('--blue',s 'circle(1900px at 100% 0%)');
     
 
     document.documentElement.style
